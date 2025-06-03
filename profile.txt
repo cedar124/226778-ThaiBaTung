@@ -1,2 +1,3 @@
 Name: ThaiBaTung
 Interest: COding, design
+Skill: NONE
